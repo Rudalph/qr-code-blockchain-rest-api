@@ -1,0 +1,5 @@
+Powershell:
+Invoke-WebRequest -Uri "http://localhost:3000/product/b25classicalveebelt_2" -Method GET
+
+Curl:
+curl -X GET http://localhost:3000/product/ABC123
