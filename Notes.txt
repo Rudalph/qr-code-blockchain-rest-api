@@ -3,3 +3,6 @@ Invoke-WebRequest -Uri "http://localhost:3000/product/b25classicalveebelt_2" -Me
 
 Curl:
 curl -X GET http://localhost:3000/product/ABC123
+
+Chat GPT: Gas issue
+https://chatgpt.com/share/67d7e484-a1d4-8007-bbe6-b11bcbce5626
